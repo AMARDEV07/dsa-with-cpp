@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../tick-tack-to"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tick-tack-to",
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
